@@ -14,10 +14,11 @@ I have graduated Belarusian State University at the faculty of Radiophysics and 
 
 ## Code example:
 This is just an initial code from Codewars:
-```function multiply(a, b){
-return  a * b
 ```
+function multiply(a, b){
+return  a * b
 }
+```
 
 ## Courses:  
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
