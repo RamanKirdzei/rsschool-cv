@@ -25,5 +25,5 @@ return  a * b
 ## Languages:  
 * Russian- Native
 * Belarussian - advanced
- English - intermediate (B1, according to the online test at [EFSET](www.efset.org))
+* English - intermediate (B1, according to the online test at [EFSET](www.efset.org))
 ![Englsih_level](English_Level.png)
