@@ -1,11 +1,11 @@
 # Raman Kirdzei  
 ## Engineer of roaming and fraud monitoring  
 ## Contact information:  
-**Phone**: +381600007292 \
-**E-mail**: kirdey.roman1@gmail.com \
-**Discord**: Raman Kirdzei#6827 \
+**Phone**: +381600007292\
+**E-mail**: kirdey.roman1@gmail.com\
+**Discord**: Raman Kirdzei#6827\
 [LinkedIn](www.linkedin.com/in/raman-kirdzei)
-## About myself:  
+## About myself:
 I have graduated Belarusian State University at the faculty of Radiophysics and Computer technologies. Now I work in the Telekom and Mobile operator at the position of engineer of roaming and fraud monitoring. In march 2022 I was relocated to Serbia. So now I live in Novi Sad but work for Belarus company. I really interested in Front-end development and hope it will be great experience for me.
 ## Skills:  
 * HTML5 basics
@@ -25,5 +25,5 @@ return  a * b
 ## Languages:  
 * Russian- Native
 * Belarussian - advanced
-* English - intermediate (B1, according to the online test at [EFSET](www.efset.org)) \
+* English - intermediate (B1, according to the online test at [EFSET](www.efset.org))\
 ![Englsih_level](English_Level.png)
