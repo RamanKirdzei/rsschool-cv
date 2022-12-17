@@ -6,7 +6,7 @@
 **Discord**: Raman Kirdzei#6827\
 [LinkedIn](www.linkedin.com/in/raman-kirdzei)
 ## About myself:
-I have graduated Belarusian State University at the faculty of Radiophysics and Computer technologies. Now I work in the Telekom and Mobile operator at the position of engineer of roaming and fraud monitoring. In march 2022 I was relocated to Serbia. So now I live in Novi Sad but work for Belarus company. I really interested in Front-end development and hope it will be great experience for me.
+I have graduated Belarusian State University in the faculty of Radiophysics and Computer technologies. Now I work in the Telekom and Mobile operator at the position of Engineer of roaming and fraud monitoring. In march 2022 I was relocated to Serbia. I am really interested in Front-end development and hope it will be a great experience for me.
 ## Skills:  
 * HTML5 basics
 * CSS basics
@@ -26,4 +26,4 @@ return  a * b
 * Russian- Native
 * Belarussian - advanced
 * English - intermediate (B1, according to the online test at [EFSET](www.efset.org))\
-![Englsih_level](English_Level.png)
+![Englsih_level](assets/img/English_Level.png)
