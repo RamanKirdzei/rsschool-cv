@@ -22,7 +22,7 @@ return  a * b
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)  
 ## Languages:  
 * Russian- Native  
-* Belarussian - advanced  
+* Belarussian - Advanced  
 * English - Intermediate (B1)  
 * Serbian - Pre-Intermediate (A2)  
 
