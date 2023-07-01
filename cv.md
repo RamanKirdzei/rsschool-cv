@@ -11,6 +11,7 @@ I have graduated Belarusian State University in the faculty of Radiophysics and 
 * HTML5 basics  
 * CSS basics  
 * Git, GitHub  
+
 ## Code example:  
 This is just an initial code from Codewars:  
 ~~~
