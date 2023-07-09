@@ -1,2 +1,2 @@
-[1](https://RamanKirdzei.github.io/rsschool-cv/cv)
-[2](https://RamanKirdzei.github.io/rsschool-cv/)
+[Markdown CV](https://RamanKirdzei.github.io/rsschool-cv/cv)
+[HTML CV](https://RamanKirdzei.github.io/rsschool-cv/)
