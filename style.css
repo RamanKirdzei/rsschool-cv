@@ -128,7 +128,7 @@
   }
   
   .footer {
-    background-color: #1c1d1c;
+    background-color: #676867;
     padding: 15px;  
   }
   
@@ -139,46 +139,25 @@
     margin: 0 auto;
     color: rgb(247, 249, 248);
   }
+  .rss_logo {
+    width: 100px;
+    height: 30px;
+    background-image: url("assets/svg/rs_school_js.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .git_logo {
+    width: 100px;
+    height: 30px;
+    background-image: url("assets/svg/github-mark.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
 @font-face {
     font-family: Roboto;
      src: url(".//assets/fonts/Roboto/Roboto-Regular.ttf");
    }
 @font-face {
     font-family: PT_Serif;
-     src: url(".//assets/fonts/PT_Serif/PTSerif-Regular.ttf");
+     src: url(".//rsschool-cv/assets/fonts/PT_Serif/PTSerif-Regular.ttf");
    }
-  
-  .toggle {
-    display: none;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 40px;
-    height: 40px;
-    margin-top: 5px;
-    margin-left: auto;
-    cursor: pointer;
-    user-select: none;
-    z-index: 15;
-  }
-  
-  .toggle div {
-    width: 80%;
-    height: 2px;
-    background: #fff;
-    margin: 3px 0;
-    z-index: 15;
-  }
-  
-  .toggle.collapsed .line1 {
-    transform: rotate(-45deg) translate(-5px, 6px);
-  }
-  
-  .toggle.collapsed .line2 {
-    opacity: 0;
-  }
-  
-  .toggle.collapsed .line3 {
-    transform: rotate(45deg) translate(-5px, -6px);
-  }
-  
