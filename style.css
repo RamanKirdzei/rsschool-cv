@@ -52,7 +52,6 @@
     border-bottom: 3px solid #000000;
   }
   
-  .section-education,
   .section-language {
     border-bottom: 0;
   }
@@ -142,11 +141,11 @@
   }
 @font-face {
     font-family: Roboto;
-     src: url("assets/fonts/Roboto/Roboto-Regular.ttf");
+     src: url(".//assets/fonts/Roboto/Roboto-Regular.ttf");
    }
 @font-face {
     font-family: PT_Serif;
-     src: url("assets/fonts/PT_Serif/PTSerif-Regular.ttf");
+     src: url(".//assets/fonts/PT_Serif/PTSerif-Regular.ttf");
    }
   
   .toggle {
