@@ -1,0 +1,189 @@
+@font-face {
+    font-family: Roboto;
+     src: url(".//assets/fonts/Roboto/Roboto-Regular.ttf");
+   }
+@font-face {
+    font-family: PT_Serif;
+     src: url(".//assets/fonts/PT_Serif/PTSerif-Regular.ttf");
+   }
+* 
+{
+    box-sizing: border-box;
+  }
+  
+  html {
+    scroll-behavior: smooth; 
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 320px;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #050505;
+    background-color: #ffffff;
+  }
+  
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+    min-height: 50px;
+  }
+  
+  .header {
+    background-color: #919391;
+  }
+  .nav-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+  }
+
+  .nav-link {
+    position: relative;
+    padding: 60px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 50px;
+    color: #040404; 
+  }
+
+  .main {
+    margin-bottom: auto;
+  }
+  
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .text {
+    position: relative;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+    padding-left: 30px; 
+  }
+  .section {
+    width: calc(50% - 30px);
+    padding: 10px;
+    padding-bottom: 35px;
+    border-bottom: 3px solid #000000;
+  }
+  
+  .section-language {
+    border-bottom: 0;
+  }
+  
+  .section-courses {
+    border-bottom: 0;
+  }
+  
+  .section-title {
+    font-family: Roboto;
+    margin-bottom: 20px;  
+    font-size: 24px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #4b4e4b;
+  }
+  
+  .section-profile {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 50px 30px 35px;
+    border-bottom: 8px solid #010101;
+  }
+  
+  .section-profile-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: left;  
+    text-transform: uppercase;
+  }
+  
+  .main-title {
+    font-family: PT_serif;
+    position: static;
+    padding: 0;
+    margin-bottom: 20px;
+    color: #000000;
+    font-size: 32px;
+    font-weight: 300;
+    letter-spacing: 5px;
+    line-height: 50px;
+    word-spacing: 2px;
+  }
+  
+  
+  .section-subtitle {
+    font-family: PT_serif;
+    margin-top: 20px;
+    color: #000000;
+    line-height: 50px;
+    font-weight: 300;
+    letter-spacing: 2px;
+  }
+  
+  .section-profile-logo {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .section-list {
+    margin: 0;
+    padding: 0;  
+    list-style: none;
+  }
+  
+  .section-item {
+    position: relative;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+    padding-left: 30px;
+  }
+  
+  .section-item span {
+    color: #829985;
+  }
+  
+  .footer {
+    background-color: #919391;
+    padding: 15px;  
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    color: rgb(6, 6, 6);
+  }
+  .rss_logo {
+    width: 100px;
+    height: 30px;
+    background-image: url(".//assets/img/rs_school_js.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .git_logo {
+    width: 100px;
+    height: 30px;
+    background-image: url(".//assets/img/github.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
